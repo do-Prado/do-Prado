@@ -1,7 +1,7 @@
 ![MasterHead](https://media4.giphy.com/headers/dhunten/0DvIY8fAjBSg.gif)
 <h1 align="center">Hi 👋, I'm Eduardo Prado</h1>
 <h3 align="center">A web development programming student from Brazil</h3>
-<img align="right" alt="Coding" width="400" style="border-radius:45px"; src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif")>
+<img align="right" alt="Coding" width="350" style="border-radius:45px"; src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif")>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=do-prado&label=Profile%20views&color=0e75b6&style=flat" alt="do-prado" /> </p>
 
 - 🔭 I’m currently working on **Studies of JAVA POO**
@@ -27,8 +27,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
   </p>
+      
+<div>
+  <p><img height="150em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=do-prado&show_icons=true&locale=en&layout=compact&theme=dracula" alt="do-prado" /></p>
 
-<p><img height="150em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=do-prado&show_icons=true&locale=en&layout=compact&theme=dracula" alt="do-prado" /></p>
-
-<p>&nbsp;<img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=do-prado&show_icons=true&locale=en&theme=dracula" alt="do-prado" /></p>
-
+  <p>&nbsp;<img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=do-prado&show_icons=true&locale=en&theme=dracula" alt="do-prado" /></p>
+</div>
